@@ -2,7 +2,7 @@
 
 ## Feedback
 
-* [ ] Env (legacy & current) are confusing and very not clearly documented
+* [ ] Env vars (legacy & current) are confusing and very not clearly documented -- the whole `LANGSMITH_*` vs. `LANGCHAIN_*` env vars are not well documented. 
 * [ ] ExperimentResults (actual returning results) documentation should be easier to find. Or perhaps I just didn't search hard enough... But I had to use python REPL to examine what has been returned. from `from langsmith_evaluation import run_evaluation_experiment`
 * [ ] I haven’t tested with other LLM integration, but I do know the integration with Azure OpenAI, especially the documentation, can improve a lot…
   * [ ] For instance, when visiting https://python.langchain.com/docs/integrations/llms/azure_openai/, it says, “This page goes over how to use LangChain with Azure OpenAI.”. But that page leads to a Azure OpenAI sales page… It probably should lead to this page https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/develop/langchain
