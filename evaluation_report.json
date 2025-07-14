@@ -1,0 +1,17 @@
+{
+  "evaluation_metadata": {
+    "timestamp": "2025-07-14T11:05:00.422295",
+    "agent_type": "research_assistant",
+    "evaluation_framework": "langsmith",
+    "dataset_name": "research_assistant_evaluation"
+  },
+  "performance_summary": {},
+  "detailed_results": {},
+  "recommendations": [],
+  "experiment_details": {
+    "experiment_name": "Research_Agent_Evaluation_20250714_110345-45510412",
+    "dataset_name": "research_assistant_evaluation",
+    "evaluators_count": 5,
+    "completion_status": "success"
+  }
+}
